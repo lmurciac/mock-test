@@ -4,7 +4,7 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Error[]"
+    "comments": "Error"
   },
   "Error": {
     "returnMessage": "string",
