@@ -1,8 +1,8 @@
 {
   "Nation": {
     "error": {
-        "returnMessage": "String",
-        "returnSeverity": "String",
+        "returnMessage": "string",
+        "returnSeverity": "string",
         "returnCode": "int"
     }
   }
