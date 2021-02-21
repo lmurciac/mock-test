@@ -1,9 +1,9 @@
 {
   "NW": {
     "error": {
-        "returnMessage": "Unable to quote at this time",
-        "returnSeverity": "Failure",
-        "returnCode": "504"
+        "returnMessage": "String",
+        "returnSeverity": "String",
+        "returnCode": "int"
     }
   }
 }
