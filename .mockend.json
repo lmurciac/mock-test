@@ -1,13 +1,9 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "NW": {
+    "error": {
+        "returnMessage": "Unable to quote at this time",
+        "returnSeverity": "Failure",
+        "returnCode": "504"
+    }
   }
 }
