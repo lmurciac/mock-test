@@ -4,10 +4,10 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": "Error[]"
   },
-  "Comment": {
-    "body": "string",
+  "Error": {
+    "returnMessage": "string",
     "post": "Post"
   }
 }
